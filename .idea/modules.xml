@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/python_xuexi.iml" filepath="$PROJECT_DIR$/.idea/python_xuexi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../test_case_api/集团应用/.idea/集团应用.iml" filepath="$PROJECT_DIR$/../test_case_api/集团应用/.idea/集团应用.iml" />
     </modules>
   </component>
 </project>

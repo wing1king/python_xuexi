@@ -2,7 +2,7 @@
 # 需求2： 读取内容：循环读取，当无内容的时候退出循环，如果用户意外终止，提示用户已经被意外终止
 import time
 try:
-    f = open('text.txt')
+    f = open('test.txt')
     # 尝试读取内容
     try:
         while True:
